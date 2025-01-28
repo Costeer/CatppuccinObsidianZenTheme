@@ -1,5 +1,5 @@
 ### Catppuccin Obsidan Zen Theme
-a theme with the Catppuccin color scheme that looks kinda like zen for Obsidian :3
+a theme with the Catppuccin color scheme (that kinda looks like the zen IDE) for Obsidian :3
 
 ![image](https://github.com/user-attachments/assets/193dcd06-5d91-4885-9ea5-a72d01445964)
 
